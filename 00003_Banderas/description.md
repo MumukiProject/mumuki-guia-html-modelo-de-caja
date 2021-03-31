@@ -9,7 +9,7 @@ En [esta página](https://www.countryflags.com/) vas a encontrar banderas, eleg�
   <div class="franja-celeste"></div>
 </div>
 ```
-> Algunas condiciones son:
+> Tené en cuenta que:
 >
 - Las banderas deben 300px de ancho y 200px de alto.
 - Las banderas deben estar separadas entre sí por un margen.
