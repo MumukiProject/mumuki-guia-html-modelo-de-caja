@@ -1,0 +1,1 @@
+Replicá los siguientes ejemplos. Recordá que no tienen que verse 100% idénticos, podés simplicar la elección de colores, fuentes y efectos. La idea es aplicar los conocimientos vistos _hasta el momento_, en caso de que no sepas hacer alguna parte, podés dejarla y seguir con otro ejercicio.

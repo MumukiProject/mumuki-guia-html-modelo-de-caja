@@ -1,0 +1,9 @@
+---
+name: Modelo de caja
+locale: es
+type: learning
+beta: false
+language: html
+id_format: "%05d"
+order: []
+private: false
